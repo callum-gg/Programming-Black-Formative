@@ -16,7 +16,7 @@ Titles are inconsistent and lacking, headings are inconsistent as well and there
 Validity of HTML
 ====================
 Weak<br>
-There are a number of errors including the body tag coming after the close html tag in the jacob.html, an invalid class property of the body in index.html and no closing html tag in the internet.html.
+There are a number of errors including the body tag coming after the close html tag in the jacob.html, an invalid class property of the body in index.html and no closing html tag in the internet.html. Also, no alt text was added to the images on the Medical page - making it inaccessible.
 
 Evidence of collaboration including
 ====================
