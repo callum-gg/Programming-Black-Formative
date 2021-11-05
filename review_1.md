@@ -23,7 +23,7 @@ Evidence of collaboration including
 Author info not written by author
 --------------------
 Weak<br>
-The internet page is missing a LinkedIn link and socail media is missing a Github link. There is filler text in the author section of natural disasters and the second author section of medical.
+The internet page is missing a LinkedIn link and social media is missing a Github link. There is filler text in the author section of natural disasters and the second author section of medical.
 
 Balanced contributions from members
 --------------------
